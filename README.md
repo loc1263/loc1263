@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loc1263&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Lenguajes más usados"/>
+<img src="languages.svg" alt="Lenguajes más usados"/>
 </p>

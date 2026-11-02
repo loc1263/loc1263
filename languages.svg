@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="290" viewBox="0 0 460 290" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="460" height="290" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="28" font-size="16" font-weight="600" fill="#58a6ff">Lenguajes más usados</text>
+<text x="20" y="62" font-size="13" fill="#c9d1d9">Go</text>
+<rect x="120" y="50" width="190.0" height="14" rx="3" fill="#00ADD8"/>
+<text x="318.0" y="62" font-size="12" fill="#8b949e">51.2%</text>
+<text x="20" y="92" font-size="13" fill="#c9d1d9">Python</text>
+<rect x="120" y="80" width="62.7" height="14" rx="3" fill="#3776AB"/>
+<text x="190.7" y="92" font-size="12" fill="#8b949e">16.9%</text>
+<text x="20" y="122" font-size="13" fill="#c9d1d9">Svelte</text>
+<rect x="120" y="110" width="34.5" height="14" rx="3" fill="#FF3E00"/>
+<text x="162.5" y="122" font-size="12" fill="#8b949e">9.3%</text>
+<text x="20" y="152" font-size="13" fill="#c9d1d9">Rust</text>
+<rect x="120" y="140" width="31.9" height="14" rx="3" fill="#DEA584"/>
+<text x="159.9" y="152" font-size="12" fill="#8b949e">8.6%</text>
+<text x="20" y="182" font-size="13" fill="#c9d1d9">Nim</text>
+<rect x="120" y="170" width="12.2" height="14" rx="3" fill="#FFC200"/>
+<text x="140.2" y="182" font-size="12" fill="#8b949e">3.3%</text>
+<text x="20" y="212" font-size="13" fill="#c9d1d9">JavaScript</text>
+<rect x="120" y="200" width="11.1" height="14" rx="3" fill="#F1E05A"/>
+<text x="139.1" y="212" font-size="12" fill="#8b949e">3.0%</text>
+<text x="20" y="242" font-size="13" fill="#c9d1d9">C++</text>
+<rect x="120" y="230" width="9.3" height="14" rx="3" fill="#F34B7D"/>
+<text x="137.3" y="242" font-size="12" fill="#8b949e">2.5%</text>
+<text x="20" y="272" font-size="13" fill="#c9d1d9">TypeScript</text>
+<rect x="120" y="260" width="8.9" height="14" rx="3" fill="#3178C6"/>
+<text x="136.9" y="272" font-size="12" fill="#8b949e">2.4%</text>
+</svg>
