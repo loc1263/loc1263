@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-<img src="languages.svg" alt="Lenguajes más usados"/>
+
 </p>
